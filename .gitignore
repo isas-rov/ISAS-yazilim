@@ -1,0 +1,35 @@
+# Sanal ortam
+venv/
+
+# Veri setleri
+veri/
+veri2/
+veri_birlesik/
+train/
+valid/
+test/
+test_gorseller/
+datasets/
+
+# Egitim ciktilari
+runs/
+
+# Model dosyalari
+*.pt
+
+# Gorseller
+*.jpg
+*.jpeg
+*.png
+
+# Roboflow artiklari
+data.yaml
+README.dataset.txt
+README.roboflow.txt
+
+# Python onbellek
+__pycache__/
+*.pyc
+
+# Log
+*.csv
